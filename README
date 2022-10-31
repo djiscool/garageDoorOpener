@@ -1,0 +1,3 @@
+A garage door opener using a relay, and a raspberry pi.
+
+this project uses wiringPi which has since been discontinued (aka this needs a rewrite)
